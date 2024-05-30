@@ -10,8 +10,8 @@ Disclaimer: This information is provided solely for educational purposes. The au
 How to Use
 Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/log-parser.git
-   cd log-parser
+   git clone https://github.com/OffSec30/FuckParsing.git
+   cd FuckParsing
    ```
 
 Install dependencies:
@@ -19,7 +19,7 @@ Install dependencies:
 
 Run the script:
    ```bash
-   python script.py
+   python FuckParsing.py
    ```
 
 Script Overview
